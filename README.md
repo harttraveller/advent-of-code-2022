@@ -2,7 +2,7 @@
 
 ## Days
 
-### Day 1
-
-https://adventofcode.com/2022/day/1
+- [x] Day 1
+  - [x] Challenge 1
+  - [x] Challenge 2
 
