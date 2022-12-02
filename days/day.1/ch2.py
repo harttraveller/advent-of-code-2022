@@ -1,7 +1,7 @@
 def main():
     data = [
         sum([int(x) for x in elf.split("\n") if x != ""])
-        for elf in open("ch1.input.txt").read().split("\n\n")
+        for elf in open("input.txt").read().split("\n\n")
     ]
     data.sort(reverse=True)
     return sum(data[:3])
